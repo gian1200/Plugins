@@ -3,6 +3,7 @@
 
 <title>FuzzySearch feature plugin</title>
 
+<js lib="datatables" />
 <info><![CDATA[
 
 The FuzzySearch plugin for DataTables which adds a _feature_ to DataTables for use in the `-init layout` option. The `fuzzySearch` feature provides an input control that will give the end user of fuzzy matching on the text in the table.
