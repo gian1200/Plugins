@@ -1,0 +1,317 @@
+{
+	"aria": {
+		"orderable": ": Ordenar",
+		"orderableRemove": ": Remover ordenamiento",
+		"orderableReverse": ": Ordenar de forma inversa",
+		"paginate": {
+			"first": "Primera",
+			"last": "Última",
+			"next": "Siguiente",
+			"previous": "Anterior"
+		}
+	},
+	"autoFill": {
+		"cancel": "Cancelar",
+		"fill": "Rellene todas las celdas con <i>%d<\/i>",
+		"fillHorizontal": "Rellenar celdas horizontalmente",
+		"fillVertical": "Rellenar celdas verticalmente",
+		"info": ""
+	},
+	"buttons": {
+		"collection": "Colección <span class=\"ui-button-icon-primary ui-icon ui-icon-triangle-1-s\" \/>",
+		"colvis": "Visibilidad de columna",
+		"colvisRestore": "Restaurar visibilidad",
+		"copy": "Copiar",
+		"copyKeys": "Presione Ctrl o u2318 + C para copiar los datos de la tabla al portapapeles del sistema.<br \/><br \/>Para cancelar, haga clic en este mensaje o presione Esc.",
+		"copySuccess": {
+			"_": "%ds filas copiadas al portapapeles",
+			"1": "1 fila copiada al portapapeles"
+		},
+		"copyTitle": "Copiar al portapapeles",
+		"createState": "Crear Estado",
+		"csv": "CSV",
+		"excel": "Excel",
+		"pageLength": {
+			"_": "Mostrar %d filas",
+			"-1": "Mostrar todas las filas",
+			"1": "Mostrar 1 fila"
+		},
+		"pdf": "PDF",
+		"print": "Imprimir",
+		"removeAllStates": "Remover todos los estados",
+		"removeState": "Remover",
+		"renameState": "Renombrar",
+		"savedStates": "Estados guardados",
+		"stateRestore": "Estado %d",
+		"updateState": "Actualizar"
+	},
+	"columnControl": {
+		"buttons": {
+			"searchClear": "Borrar búsqueda"
+		},
+		"colVis": "Visibilidad de columna",
+		"colVisDropdown": "Visibilidad de columna",
+		"dropdown": "Más...",
+		"list": {
+			"all": "Seleccionar",
+			"empty": "Vacío",
+			"none": "Deseleccionar",
+			"search": "Buscar..."
+		},
+		"orderAddAsc": "Añadir a ordenamiento ascendente",
+		"orderAddDesc": "Añadir a ordenamiento descencente",
+		"orderAsc": "Ordenar ascendentemente",
+		"orderClear": "Remover ordenamiento",
+		"orderDesc": "Ordenar descendentemente",
+		"orderRemove": "Remover de ordenamiento",
+		"reorder": "Reordenar",
+		"reorderLeft": "Mover a la izquierda",
+		"reorderRight": "Mover a la derecha",
+		"search": {
+			"datetime": {
+				"empty": "Vacío",
+				"equal": "Igual a",
+				"greater": "Mayor que",
+				"less": "Menor que",
+				"notEmpty": "Con data",
+				"notEqual": "Diferente a"
+			},
+			"number": {
+				"empty": "Vacío",
+				"equal": "Igual a",
+				"greater": "Mayor a",
+				"greaterOrEqual": "Mayor o igual a",
+				"less": "Menor a",
+				"lessOrEqual": "Menor o igual a",
+				"notEmpty": "Con data",
+				"notEqual": "Diferente a"
+			},
+			"text": {
+				"contains": "Contiene",
+				"empty": "Vacío",
+				"ends": "Finaliza con",
+				"equal": "Igual a",
+				"notContains": "no contiene",
+				"notEmpty": "Con data",
+				"notEqual": "Diferente a",
+				"starts": "Empieza con"
+			}
+		},
+		"searchClear": "Borrar búsqueda",
+		"searchDropdown": "Buscar"
+	},
+	"datetime": {
+		"amPm": {
+			"0": "a. m.",
+			"1": "p. m."
+		},
+		"hours": "Hora",
+		"minutes": "Minuto",
+		"months": {
+			"0": "Enero",
+			"1": "Febrero",
+			"10": "Noviembre",
+			"11": "Diciembre",
+			"2": "Marzo",
+			"3": "Abril",
+			"4": "Mayo",
+			"5": "Junio",
+			"6": "Julio",
+			"7": "Agosto",
+			"8": "Septiembre",
+			"9": "Octubre"
+		},
+		"next": "Siguiente",
+		"previous": "Anterior",
+		"seconds": "Segundo",
+		"unknown": "-",
+		"weekdays": {
+			"0": "Dom",
+			"1": "Lun",
+			"2": "Mar",
+			"3": "Mié",
+			"4": "Jue",
+			"5": "Vie",
+			"6": "Sáb"
+		}
+	},
+	"decimal": ".",
+	"editor": {
+		"close": "Cerrar",
+		"create": {
+			"button": "Nuevo",
+			"submit": "Crear",
+			"title": "Crear nuevo registro"
+		},
+		"edit": {
+			"button": "Editar",
+			"submit": "Actualizar",
+			"title": "Editar registro"
+		},
+		"error": {
+			"system": "Ha ocurrido un error en el sistema (<a target=\"\\\" rel=\"nofollow\" href=\"\\\">Más información<\/a>)."
+		},
+		"multi": {
+			"info": "Los elementos seleccionados contienen diferentes valores para esta entrada. Para editar y establecer todos los elementos de esta entrada con el mismo valor, haga clic o pulse aquí; de lo contrario, conservarán sus valores individuales.",
+			"noMulti": "Esta entrada puede ser editada individualmente, pero no como un grupo.",
+			"restore": "Deshacer cambios",
+			"title": "Múltiples valores"
+		},
+		"remove": {
+			"button": "Eliminar",
+			"confirm": {
+				"_": "¿Seguro que desea eliminar %d filas?",
+				"1": "¿Seguro que desea eliminar 1 fila?"
+			},
+			"submit": "Eliminar",
+			"title": "Eliminar"
+		}
+	},
+	"emptyTable": "No hay _ENTRIES_ disponibles en la tabla",
+	"entries": {
+		"_": "registros",
+		"1": "registro"
+	},
+	"info": "Mostrando del _START_ al _END_, de _TOTAL_ _ENTRIES-TOTAL_",
+	"infoEmpty": "No hay _ENTRIES_ para mostrar",
+	"infoFiltered": "(filtrado de un total de _MAX_ _ENTRIES-MAX_)",
+	"infoPostFix": "",
+	"infoThousands": ",",
+	"lengthLabels": {
+		"-1": "Todos"
+	},
+	"lengthMenu": "Mostrar _MENU_ _ENTRIES_",
+	"loadingRecords": "Cargando...",
+	"orderClear": "Remover ordenamiento",
+	"processing": "Procesando...",
+	"search": "Buscar:",
+	"searchBuilder": {
+		"add": "Agregar condición",
+		"button": {
+			"_": "Constructor de búsqueda (%d)",
+			"0": "Constructor de búsqueda"
+		},
+		"clearAll": "Borrar todo",
+		"condition": "Condición",
+		"conditions": {
+			"array": {
+				"contains": "Contiene",
+				"empty": "Vacío",
+				"equals": "Igual a",
+				"not": "Diferente de",
+				"notEmpty": "Con data",
+				"without": "Sin"
+			},
+			"date": {
+				"after": "Después de",
+				"before": "Antes de",
+				"between": "Entre",
+				"empty": "Vacío",
+				"equals": "Igual a",
+				"not": "Diferente de",
+				"notBetween": "No entre",
+				"notEmpty": "Con data"
+			},
+			"number": {
+				"between": "Entre",
+				"empty": "Vacío",
+				"equals": "Igual a",
+				"gt": "Mayor a",
+				"gte": "Mayor o igual a",
+				"lt": "Menor que",
+				"lte": "Menor o igual a",
+				"not": "Diferente de",
+				"notBetween": "No entre",
+				"notEmpty": "Con data"
+			},
+			"string": {
+				"contains": "Contiene",
+				"empty": "Vacío",
+				"endsWith": "Termina en",
+				"equals": "Igual a",
+				"not": "Diferente de",
+				"notContains": "No Contiene",
+				"notEmpty": "Con data",
+				"notEndsWith": "No termina con",
+				"notStartsWith": "No empieza con",
+				"startsWith": "Empieza con"
+			}
+		},
+		"data": "Data",
+		"deleteTitle": "Eliminar regla de filtrado",
+		"leftTitle": "Desidentar criterio",
+		"logicAnd": "Y",
+		"logicOr": "O",
+		"rightTitle": "Identar criterio",
+		"search": "Buscar",
+		"title": {
+			"_": "Constructor de búsqueda (%d)",
+			"0": "Constructor de búsqueda"
+		},
+		"value": "Valor"
+	},
+	"searchPanes": {
+		"clearMessage": "Borrar todo",
+		"collapse": {
+			"_": "Paneles de búsqueda (%d)",
+			"0": "Paneles de búsqueda"
+		},
+		"collapseMessage": "Colapsar Todo",
+		"count": "{total}",
+		"countFiltered": "{shown} ({total})",
+		"emptyMessage": "Sin data",
+		"emptyPanes": "Sin paneles de búsqueda",
+		"loadMessage": "Cargando paneles de búsqueda",
+		"showMessage": "Mostrar Todo",
+		"title": "Filtros Activos - %d"
+	},
+	"searchPlaceholder": "",
+	"select": {
+		"cells": {
+			"_": "%d celdas seleccionadas",
+			"0": "",
+			"1": "1 celda seleccionada"
+		},
+		"columns": {
+			"_": "%d columnas seleccionadas",
+			"0": "",
+			"1": "1 columna seleccionada"
+		},
+		"rows": {
+			"_": "%d filas seleccionadas",
+			"0": "",
+			"1": "1 fila seleccionada"
+		}
+	},
+	"stateRestore": {
+		"creationModal": {
+			"button": "Crear",
+			"columns": {
+				"search": "Búsqueda de columna",
+				"visible": "Visibilidad de columna"
+			},
+			"name": "Nombre:",
+			"order": "Ordenamiento",
+			"paging": "Paginación",
+			"scroller": "Posición de desplazamiento (scroll)",
+			"search": "Búsqueda",
+			"searchBuilder": "Búsqueda avanzada",
+			"select": "Seleccionar",
+			"title": "Crear nuevo estado",
+			"toggleLabel": "Incluir:"
+		},
+		"duplicateError": "Ya existe un estado con este nombre.",
+		"emptyError": "El nombre no puede estar vacío.",
+		"emptyStates": "No hay estados guardados",
+		"removeConfirm": "¿Seguro que quiere eliminar %s?",
+		"removeError": "Error al eliminar el estado",
+		"removeJoiner": " y ",
+		"removeSubmit": "Eliminar",
+		"removeTitle": "Remover estado",
+		"renameButton": "Renombrar",
+		"renameLabel": "Nuevo nombre para %s:",
+		"renameTitle": "Renombrar estado"
+	},
+	"thousands": ",",
+	"zeroRecords": "No se encontraron _ENTRIES_"
+}
